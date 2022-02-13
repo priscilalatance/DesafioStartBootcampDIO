@@ -1,0 +1,16 @@
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\Hogwarts.exe
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\Hogwarts.deps.json
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\Hogwarts.runtimeconfig.json
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\Hogwarts.runtimeconfig.dev.json
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\Hogwarts.dll
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\ref\Hogwarts.dll
+C:\Projetos\Dio\Hogwarts\bin\Debug\net5.0\Hogwarts.pdb
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.csproj.AssemblyReference.cache
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.AssemblyInfoInputs.cache
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.AssemblyInfo.cs
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.csproj.CoreCompileInputs.cache
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.dll
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\ref\Hogwarts.dll
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.pdb
+C:\Projetos\Dio\Hogwarts\obj\Debug\net5.0\Hogwarts.genruntimeconfig.cache
